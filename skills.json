@@ -1,5 +1,6 @@
 { "skills":
-        ["Terminal",
+[
+        "Terminal",
 	"GIT",
 	"Postman",
         "Jmeter",
@@ -10,5 +11,6 @@
         "Client Server",
         "SQL",
         "ADB",
-        "XCode"]
+        "XCode"
+]
 }
