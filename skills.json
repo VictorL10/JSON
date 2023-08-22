@@ -1,0 +1,15 @@
+vim skills.json 
+{ "skills":
+        ["Terminal",
+	"GIT",
+	"Postman",
+        "Jmeter",
+        "Mobile Testing",
+        "Android Studio",
+        "Fiddler",
+        "Charles",
+        "Client Server",
+        "SQL",
+        "ADB",
+        "XCode"]
+}
