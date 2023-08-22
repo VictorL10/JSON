@@ -1,4 +1,3 @@
-vim skills.json 
 { "skills":
         ["Terminal",
 	"GIT",
