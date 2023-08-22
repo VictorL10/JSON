@@ -1,7 +1,7 @@
 { 
 "information about yourself":
-	    [{"Full name":"Victor_L"},
-	    {"Age":32},
-	  {"number of pets":"one pet"},
-	  {"desired Salary":500}]
+	    	[{"Full name":"Victor_L"},
+	    	{"Age":32},
+	  	{"number of pets":"one pet"},
+	  	{"desired Salary":500}]
   }
