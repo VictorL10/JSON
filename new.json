@@ -1,4 +1,7 @@
-Victor L
-32 years
-one pet
-salary 500 $
+{ 
+"information about yourself":
+	    [{"Full name":"Victor_L"},
+	    {"Age":32},
+	  {"number of pets":"one pet"},
+	  {"desired Salary":500}]
+  }
